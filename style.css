@@ -51,3 +51,28 @@ footer {
 button:hover {
     background-color: aqua;
 }
+.offcial {
+    height: 130px;
+    color: rgb(2, 2, 2);
+    text-align: center;
+    margin-top: 50px;
+    background-color: aliceblue;
+}
+.body {
+    background-color: #2f3030;
+}
+.headingoffcial {
+    font-size: 100px;
+}
+.logoheading {
+    text-align: center;
+    margin-top: 100px;
+    background-color: aliceblue;
+    height: 130px;
+    font-size: 50px;
+}
+.anchor {
+    color: #01d4d4;
+    margin-left: 100px;
+    text-decoration: underline;
+}
