@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+body {
+    margin: 0;
+}
+#navbar {
+    background-color: rgb(49, 43, 43);
+    text-decoration: none;
+    font-size: 20px;
+    padding:20px;
+    margin: 0;
+    font-family: "Playwrite NZ", cursive;
+    
+}
+a {
+    margin-right: 150px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#logo {
+    color: orange;
+}
+button {
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+    padding: 5px;
+}
+input {
+    padding: 5px;
+}
+.one {
+    margin: 0;
+    border: 20px solid black;
+}
+.div1 {
+    display: flex;
+}
+.div2 {
+    display: flex;
+}
+.div1 {
+    margin:10px 490px 10px 490px  ; 
+}
+footer {
+    color: white;
+    background-color: #0f1111;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
